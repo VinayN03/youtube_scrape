@@ -1,0 +1,9 @@
+
+# Anji - Youtube Extract
+*.log
+
+__pycache__/
+.ipynb_checkpoints/
+venv_*
+test_data/
+results/
