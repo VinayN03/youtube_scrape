@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 import time
 
-search_text = ["portable table",""
+search_text = ["portable table"]
 
     video_count = 200
 
