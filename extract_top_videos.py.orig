@@ -6,15 +6,9 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 search_text = "portable table"
 =======
 search_text = ["portable table"]
->>>>>>> branch_1
-||||||| merged common ancestors
-search_text = ["portable table"]
-=======
-search_text = "portable table"
 >>>>>>> branch_1
 
 video_count = 200
